@@ -1,4 +1,4 @@
-function mostrarListas(listasPokes){
+function mostrarLista(listaPokes){
     const app = document.getElementById("app");
     
     let Pokes = " ";
